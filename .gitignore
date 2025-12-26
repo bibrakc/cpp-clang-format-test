@@ -1,0 +1,15 @@
+# Build artifacts
+obj/
+bin/
+*.o
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
